@@ -12,7 +12,7 @@
   },
 
   "login_message": {
-    "enabled": true,
+    "enabled": false,
     "message": "Welcome to TraeEsp. Server is fully online!"
   }
 }
