@@ -4,6 +4,11 @@
     "link": "https://github.com/ZeroEngine123/Reseller-WallHack/raw/refs/heads/main/libZERO.so"
   },
 
+  "dex": {
+    "version": "1.0.0",
+    "link": "https://github.com/ZeroEngine123/Reseller-WallHack/raw/refs/heads/main/plugin.dex"
+  },
+
   "library": {
     "version": "4.0.0",
     "link": "https://raw.githubusercontent.com/ZeroEngine123/Reseller-WallHack/refs/heads/main/libMOD-WALL-VISION.so"
@@ -20,4 +25,3 @@
     "message": "Welcome to TraeEsp. Server is fully online!"
   }
 }
-
