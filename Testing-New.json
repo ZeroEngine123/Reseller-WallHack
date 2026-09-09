@@ -10,8 +10,8 @@
   },
 
   "library": {
-    "version": "4.0.0",
-    "link": "https://raw.githubusercontent.com/ZeroEngine123/Reseller-WallHack/refs/heads/main/libMOD-WALL-VISION.so"
+    "version": "5.0.0",
+    "link": "https://github.com/ZeroEngine123/Reseller-WallHack/raw/refs/heads/main/libValkun.so"
   },
 
   "apk": {
